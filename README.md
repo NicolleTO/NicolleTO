@@ -22,8 +22,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/NicolleTO/NicolleTO/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=NicolleTO&repo=NicolleTO&theme=react)](https://github.com/NicolleTO/NicolleTO)
-
-
