@@ -5,7 +5,7 @@
 <div>
     ♡ 18y <br><br>
     ♡ Técnico em Desenvolvimento de Sistemas - Coltec <br><br>
-    ♡ Atualmente cursando Matemática Computacional - UFMG <br>
+    ♡ Cursando Matemática Computacional - UFMG <br>
 </div>
 <br><br><br>
 <div>
