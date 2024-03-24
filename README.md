@@ -4,10 +4,10 @@
 
 <div>
     ♡ 18y <br><br>
-    ♡ Técnico em Desenvolvimento de Sistemas - Coltec <br><br>
+    ♡ Técnico em Desenvolvimento de Sistemas - Coltec (Github <a href="https://github.com/Nicolle-Oliveira">Nicolle-Oliveira</a>)<br><br>
     ♡ Cursando Matemática Computacional - UFMG <br>
 </div>
-<br><br><br>
+<br><br>
 <div>
   <a href="https://github.com/NicolleTO">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=NicolleTO&hide=contribs,prs&show_icons=true&theme=omni"/>
