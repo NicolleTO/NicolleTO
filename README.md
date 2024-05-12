@@ -10,9 +10,9 @@
 <br><br>
 <div>
   <a href="https://github.com/NicolleTO">
-    <img height=150 align="line" src="https://github-readme-stats.vercel.app/api?username=NicolleTO&hide=contribs,prs&show_icons=true&theme=omni"/>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=NicolleTO&hide=contribs,prs&show_icons=true&theme=omni"/>
    <br><br>
-    <img height=150 align="line" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleTO&layout=compact&theme=omni" />
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleTO&layout=compact&theme=omni" />
   </a>
 </div>
 
