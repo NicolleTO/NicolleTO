@@ -11,6 +11,7 @@
 <div>
   <a href="https://github.com/NicolleTO">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=NicolleTO&hide=contribs,prs&show_icons=true&theme=omni"/>
+   <br><br>
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleTO&layout=compact&theme=omni" />
   </a>
 </div>
