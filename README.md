@@ -3,7 +3,6 @@
 
 
 <div>
-    ♡ 19y <br><br>
     ♡ Técnico em Desenvolvimento de Sistemas - Coltec (Github <a href="https://github.com/Nicolle-Oliveira">Nicolle-Oliveira</a>)<br><br>
     ♡ Cursando Matemática Computacional - UFMG <br>
 </div>
