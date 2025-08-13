@@ -5,7 +5,7 @@
 
 <div>
     ♡ Técnico em Desenvolvimento de Sistemas - Coltec (Github <a href="https://github.com/Nicolle-Oliveira">Nicolle-Oliveira</a>)<br><br>
-    ♡ Matemática Computacional - UFMG <br>
+    ♡ Cursando Matemática Computacional - UFMG <br>
 </div>
 <br><br>
 <div align="left">
