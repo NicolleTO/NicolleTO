@@ -9,16 +9,5 @@
 </div>
 
 <br><br>
-<div align="left">
-    <a href="https://github.com/NicolleTO">
-        <img height=150 src="https://github-readme-stats.vercel.app/api?username=NicolleTO&hide=contribs,prs&show_icons=true&theme=omni"/>
-    </a>
-    <a href="https://github.com/NicolleTO">
-        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleTO&layout=compact&theme=omni" />
-    </a>
-</div>
-
-
-
 
 ##
